@@ -9,5 +9,5 @@ for(let key of keys){
   };
 };
 btnDelete.onclick = function(){
-    display.textContent = display.textContent.slice(0,-1);
+    display.textContent += display.textContent.slice(0,-1);
 };
