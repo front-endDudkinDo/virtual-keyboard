@@ -87,7 +87,7 @@ visually-hidden:not(:focus):not(:active) {
 
 .display {
   position: relative;
-  font-size: 32px;
+  font-size: 24px;
   height: 134px;
   overflow: auto;
   padding: 8px 28px 16px;
